@@ -1,6 +1,6 @@
 <?php
 
-namespace ShvetsGroup\LaravelEmailDatabaseLog;
+namespace Paulwrightabuk\LaravelEmailDatabaseLog;
 
 use DB;
 use Illuminate\Mail\Events\MessageSending;
