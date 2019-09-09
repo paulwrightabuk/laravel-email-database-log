@@ -1,12 +1,12 @@
 {
     "name": "paulwrightabuk/laravel-email-database-log",
-    "description": "A simple database logger for all outgoing emails sent by Laravel website.",
+    "description": "A simple database logger for all outgoing emails sent by Laravel website, updated for Laravel 6. Forked from original by Alexander Shvets",
     "keywords": ["laravel", "markdown"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexander Shvets",
-            "email": "neochief@shvetsgroup.com"
+            "name": "Paul Wright",
+            "email": "paul.wright@ab-uk.com"
         }
     ],
     "require": {
